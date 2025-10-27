@@ -1,0 +1,3 @@
+# Placeholder utility for threat lookup
+def lookup_ip(ip):
+    return {"ip": ip, "status": "safe"}
