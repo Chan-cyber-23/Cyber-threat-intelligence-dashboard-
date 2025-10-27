@@ -1,0 +1,8 @@
+<!DOCTYPE html>
+<html>
+<head><title>CTI Dashboard</title></head>
+<body>
+<h1>Cyber Threat Intelligence Dashboard</h1>
+<p>This is a placeholder template.</p>
+</body>
+</html>
